@@ -162,7 +162,7 @@ a:hover{
 
 .btn{
 	display: block;
-	width: 30%;
+	width: 25%;
 	height: 50px;
 	border-radius: 25px;
 	outline: none;
@@ -176,10 +176,13 @@ a:hover{
 	margin: 1rem 0;
 	cursor: pointer;
 	transition: .5s;
+	
 }
 .btn:hover{
 	background-position: right;
 }
+
+
 
 
 @media screen and (max-width: 1050px){
